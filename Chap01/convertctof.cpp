@@ -3,6 +3,7 @@
 // units into Fahrenheit degree units:
 // Fahrenheit = Celsius * (212 - 32)/100 + 32
 //
+// Simple update
 #include <cstdio>
 #include <cstdlib>
 #include <iostream>
